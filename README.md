@@ -1,11 +1,11 @@
 <h1 align='center'>
-    <img src="https://crm7.com.br/wp-content/uploads/2020/11/Netflix-Logo.png"/>
+    <img src="https://crm7.com.br/wp-content/uploads/2020/11/Netflix-Logo.png" width="400" height="200"/>
 </h1>
 
 
-<!-- <h1>
-    <img src="/screenshots/movie.gif"/>
-</h1> -->
+<h1>
+    <img src="./.github/screenshots/reactMovie.jpeg"/>
+</h1>
 
 
 ## 📝 Sobre: 
@@ -18,10 +18,8 @@ Site feito em ReactJS para aprofundar os estudos na tecnologia.
 
 O projeto foi desenvolvido utilizando as seguintes tecnólogias:
 
-- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-- [Redux](https://redux.js.org/)
-- [Axios](https://github.com/axios/axios)
-- [Style-Components](https://styled-components.com/)
+- [react-dom](https://reactrouter.com/web/guides/quick-start)
+- [material-ui/icons](https://redux.js.org/)
 
 ---
 ## 📦  Como baixar o projeto:
