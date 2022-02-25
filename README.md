@@ -10,7 +10,8 @@
 
 ## 📝 Sobre: 
 
-Site feito em ReactJS para aprofundar os estudos na tecnologia.
+Site feito em ReactJS para aprofundar os estudos na tecnologia.<br/>
+De uma conferida no resultado final neste [link](https://react-movie-7nu22o5iq-chagas42.vercel.app).
 
 ---
 
